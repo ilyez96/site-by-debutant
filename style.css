@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-image: url("");
+    background-size: cover;
+}
+
+#banner { width: 100%;
+    border-radius: 16px 16px 0 0;
+    height: 3OOpx;
+}
+
+#pfp { width: 160px;
+    border-radius: 50%;
+    margin-left: 13px;
+    margin-top: -80px;
+}
+
+p {font-size: 8px;
+    margin-left:50px ;
+    margin-top:-10px;
+}
